@@ -1,9 +1,11 @@
-type Person = {
-    name: string;
-}
+// Strings
+let myName: string = "Adryel"
+console.log(myName)
 
-const person: Person = {
-    name: "Adryel",
-}
+// Numbers
+let numb: number = 22;
+console.log(numb)
 
-console.log(person.name)
+// Boolean
+let logic: boolean = true;
+console.log(logic)
